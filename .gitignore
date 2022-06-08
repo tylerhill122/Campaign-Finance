@@ -1,0 +1,6 @@
+# ignore temp files
+temp/
+
+
+# ignore Mac DS_Store file
+**/.DS_Store
