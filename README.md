@@ -24,7 +24,10 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
     
   # Load
     > Created the table candiate_id
-    > Created a unique candidate ID .to link VARCHAR ID from the dataset.
+    > Created a unique candidate ID to link VARCHAR ID from the dataset.
     > Created the candidate table.
     > Created the candidate contrbutions tracking table.
+    > Created a query to view the results from efforts.
+    > Both Tyler and Phil are interested in politics as hobbies and thought this was an interesting questions
+      and would the same results fom several years (Analyzed in the Kaggle dataset) reflect the same conclusion.
  
