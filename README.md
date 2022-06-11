@@ -1,6 +1,6 @@
 <h1 Align="center"> Campaign Finance versus Election Results </h1>
 
-Our goal for this project is to compile a set of 2020 swing-state election data and determine if the outcome of the race can be predicted by the dollar amount of funds raised for a candidate.
+Our goal for this project is to compile a (More recent set of data versus the Kaggle data set) data set of swing-state election results and a data set of the amount of money raised by each candidate and if the amount of money candidates raise for their federal political election race determined the outcome of these federal political election race.
   
 #  **Data Sources:**   
 The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner Bland who questioned if it was possible to predict election results based on the election cycle campaign finance report data?  This is the link to this data source from Kaggle. (https://www.kaggle.com/datasets/danerbland/electionfinance?resource=download).  The data from this Kaggle site was several years old and we use this as a base dataset and then pulled in more recent data from our second data source found on the Federal Election Commission web page (https://www.fec.gov/data/). This file contains the financial data for each candidate who registered with the FEC and appeared on an official federal election ballot for the year 2020.  This data is updated each day for data received up through 7 pm from the previous day. 
