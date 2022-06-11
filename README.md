@@ -8,7 +8,7 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
 #  *Extracting, transforming, and loading the data:*
 
   # Extract
-    > Read csv file<
+    > Read csv file
     > First data source was from a Kaggle analysis of predicting the outsome of US election based on preceding campaign
       finance reports.
     > The second data source was pulled from the Federal Election Commission web page. We ere able to pull in more 
@@ -18,19 +18,13 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
  # Transform
     > Limited the data set to only include the election swing states.
     > Declared the columns to include in data set.
-    > Creaeted the data frame for the sqing states (WI, PA, NH, MN, AZ, GA, VA, FL, MI, NV, CO, NC, ME).
+    > Created the data frame for the sqing states (WI, PA, NH, MN, AZ, GA, VA, FL, MI, NV, CO, NC, ME).
     > Formatted the data removing records with nulls.
-    > Converted "S" and "," into numeric format.
-    > Inserted the data from the second source.
+    > Removed the "$" and "," from the number collumns and converted it into numeric format.
+    
+  # Load
+    > Created the table candiate_id
+    > Created a unique candidate ID .to link VARCHAR ID from the dataset.
+    > Created the candidate table.
+    > Created the candidate contrbutions tracking table.
  
- 
-# Load
-    > RLimited the data set to only include the election swing states.
-    > Declared the columns to include in data set.
-    > Creaeted the data frame for the sqing states (WI, PA, NH, MN, AZ, GA, VA, FL, MI, NV, CO, NC, ME).
-    > Formatted the data removing records with nulls.
-    > Converted "S" and "," into numeric format.
-    > Inserted the data from the second source.
- 
-
-
