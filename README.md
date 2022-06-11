@@ -32,5 +32,5 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
       and if a correlation between funds raised by candiates was more likely to lead the candidate to win his/her election.
       
       
-    # Phil/Tyler
+    Phil/Tyler
  
