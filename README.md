@@ -7,16 +7,15 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
 
 #  *Extracting, transforming, and loading the data:*
   
-#  *Extracting*
-  
-  >Read CSV Files <br>
+  <h2 Data: </h2>
+  Data.  <br>
 
   <h3 Transform: </h3>
   Indexed data.  <br>
-  >	Declared the columns wanted for the database  <br>
-  >	Created a data frame for the chosen swing states.  (WI, PA, NH, MN, AZ, GA, VA, FL, MI, NV, CO, NC, ME).  <br>
-  >	Formatted the data, removing records with null values.  <br>
-  >	Converted “$” and “,” in the amount columns into a numeric format.  <br>
-  >	Inserted the data from the additional data source.  <br>
+    >	Declared the columns wanted for the database  <br>
+    >	Created a data frame for the chosen swing states.  (WI, PA, NH, MN, AZ, GA, VA, FL, MI, NV, CO, NC, ME).  <br>
+    >	Formatted the data, removing records with null values.  <br>
+    >	Converted “$” and “,” in the amount columns into a numeric format.  <br>
+    >	Inserted the data from the additional data source.  <br>
 
 
