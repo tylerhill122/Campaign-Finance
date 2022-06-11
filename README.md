@@ -9,8 +9,7 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
   
 #  *Extracting*
   
-> Read CSV Files <br>
->   by importing Pandas and sqlalchemy  <br>
+  >Read CSV Files <br>
 
   <h3 Transform: </h3>
   Indexed data.  <br>
@@ -19,3 +18,5 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
   >	Formatted the data, removing records with null values.  <br>
   >	Converted “$” and “,” in the amount columns into a numeric format.  <br>
   >	Inserted the data from the additional data source.  <br>
+
+
