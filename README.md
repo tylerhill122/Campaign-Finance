@@ -8,7 +8,7 @@ The first dataset source was from Kaggle.  The Kaggle data was compiled by Daner
 #  *Extracting, transforming, and loading the data:*
   
   <h2 Data: </h2>
-  Data.  <br>
+    > Read CSV file
 
   <h3 Transform: </h3>
   Indexed data.  <br>
